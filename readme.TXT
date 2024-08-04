@@ -17,3 +17,6 @@
 |   |   |-- 安装anaconda及pytorch环境.docx
 |   |-- 李宏毅HW
 |   |   |-- HW1、HW2、HW3
+|-- week4
+|   |-- NLP视频笔记
+|   |   |-- NLP相关基础笔记.docx
