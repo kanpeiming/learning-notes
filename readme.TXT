@@ -20,3 +20,8 @@
 |-- week4
 |   |-- NLP视频笔记
 |   |   |-- NLP相关基础笔记.docx
+|-- week5
+|   |-- NLP实训
+|   |   |-- Transformer实现.docx
+|   |   |-- 情感分类.docx
+|   |   |-- Bert模型.docx
